@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Tailwind CSS
 - React Icons
 - Netlify
-- Fakestore API
+- Fakestore API [View Website](https://fakestoreapi.com/)
 
 ## Why i built the project
 
